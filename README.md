@@ -1,4 +1,14 @@
-## Running the Udacity Deep Learning Foundations image classification project on floydhub.com
+# Machine Learning Engineer Nanodegree
+## Project: Image Classification
+
+In this project, you'll classify images from the CIFAR-10 dataset. The dataset consists of airplanes, dogs, cats, and other objects. You'll preprocess the images, then train a convolutional neural network on all the samples. The images need to be normalized and the labels need to be one-hot encoded. You'll get to apply what you learned and build a convolutional, max pooling, dropout, and fully connected layers. At the end, you'll get to see your neural network's predictions on the sample images.
+
+IPython: dlnd_image_classification.ipynb  
+Report: report.html  
+Helper function: helper.py, problem_unittests.py  
+
+
+### Running the Udacity Deep Learning Foundations image classification project on floydhub.com
 
 1. Create an account on [floydhub.com](https://www.floydhub.com) (don't forget to confirm your email). You will automatically receive 100 free GPU hours. 
 
